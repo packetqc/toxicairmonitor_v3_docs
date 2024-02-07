@@ -15,4 +15,4 @@
 |![](/docs/white.png)| WHITE | SETUP MAIN<br>SETUP MAIN<br>LOOP MAIN | OK | Logger is starting (solid white light)<br>Network connection with services successful (blink 3 times)<br>Values reseted after successful upload of data to services (blink 3 times) |
 
 # Structure
-![](/docs/structure.PNG)
+![](/docs/structure.png)
